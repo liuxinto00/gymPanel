@@ -1,3 +1,4 @@
+// Clean and well-organized code! A nitpick -- i think for the registration page, it asks too mnuch information which will scare off some lazy users.
 import React, { useState } from "react";
 import "./style/RegisterForm.css";
 
