@@ -2,6 +2,9 @@
 const MongoClient = require("mongodb").MongoClient;
 require("dotenv").config();
 
+// i think it would be better to hide this url, you can make an environment varaiable and ignore it in gitignore
+
+//I notice you use console.log for error, which is a good practice for debugging :)
 // set up database criteria.
 const url =
   "mongodb+srv://" +
