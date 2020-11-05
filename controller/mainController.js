@@ -1,3 +1,4 @@
+// I would like to say i really appreaciate the comments you added which make your code easy to follow
 // imported requires modules for this router
 const MongoClient = require("mongodb").MongoClient;
 require("dotenv").config();
